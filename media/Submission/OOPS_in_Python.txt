@@ -1,0 +1,6 @@
+1 What is a class in Python, and how does it differ from an object?
+
+2 Explain the concept of inheritance in Python. How does it facilitate code reuse and extensibility?
+3 What are instance variables and class variables in Python classes? Provide examples illustrating the difference between them.
+4 Describe the difference between the __init__ method and the __new__ method in Python classes.
+5 How does encapsulation enhance data security and prevent unauthorized access in Python OOP? Provide an example demonstrating encapsulation in action.
